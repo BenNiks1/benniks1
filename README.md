@@ -69,6 +69,5 @@ Focused on **Cloud and Data Engineering**, with an interest in scalable and data
 ### 📬 Contact Me
 
 <p align="left">
-  <a href="https://t.me/FatHippy" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="https://linkedin.com/in/bogdan-sychev-474809234" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
