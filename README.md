@@ -16,7 +16,7 @@ Currently at **[Lineate](https://lineate.com)** — building custom software sol
 Focused on **Cloud and Data Engineering**, with an interest in scalable and data-driven architectures:
 
 - ☁️ Strong experience with **AWS cloud infrastructure**
-- 🔧 Backend development with **Node.js**
+- 🔧 Backend development with **Node.js · NestJS · Python**
 - 📦 Building and maintaining **data-intensive systems**
 - 🔌 **API design** and data modeling
 - ⚡ Performance optimization and system reliability
@@ -49,8 +49,10 @@ Focused on **Cloud and Data Engineering**, with an interest in scalable and data
 #### Backend & Cloud
 <p align="left">
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://clickhouse.com/" target="_blank" rel="noreferrer"><img src="[https://www.vectorlogo.zone/logos/clickhouse/clickhouse-icon.svg](https://img.shields.io/badge/ClickHouse-Certified-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" alt="clickhouse" width="40" height="40"/></a>
+  <a href="https://clickhouse.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ClickHouse-black?style=flat&logo=clickhouse&logoColor=FFCC01" alt="clickhouse" height="40"/></a>
 </p>
 
 #### Tools & Other
@@ -62,9 +64,11 @@ Focused on **Cloud and Data Engineering**, with an interest in scalable and data
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
 
+---
 
 ### 📬 Contact Me
 
 <p align="left">
+  <a href="https://t.me/FatHippy" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="https://linkedin.com/in/bogdan-sychev-474809234" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
